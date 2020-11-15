@@ -1,0 +1,104 @@
+body {
+  background-color:#ffccff
+}
+
+header {
+  text-align:center;
+  text-shadow:2px 2px white;
+  border-style:dotted;
+  border-width:5px;
+  background-color:Orchid;
+  font-family:Palatino, Times, serif;
+  font-size:25px;
+  margin-bottom:5px;
+}
+  
+
+h1 {
+  text-align:center;
+  font-family:Palatino, Times, serif;
+}
+
+
+h2 {
+  text-align:center;
+  text-shadow:2px 2px white;
+  font-size:28px;
+  font-family:Palatino, Times, serif;
+  border-style:dotted;
+  border-width:5px;
+  padding:5px 5px 5px 5px;
+}
+  
+
+h3 {
+  font-family:Palatino, Times, serif;
+  padding:10px 10px 2px 15px;
+}
+
+
+h4 {
+  text-align:center;
+  font-family:Palatino, Times, serif;
+  font-size:20px;
+}
+
+h5 {
+  text-align:center;
+  font-family:Palatino, Times, serif;
+  font-size:25px;
+  text-decoration:underline;
+  margin:2px 2px 2px 2px;
+}
+
+p {
+  font-family:Palatino, "Times New Roman", serif;
+  font-size:20px;
+}
+
+
+nav {
+  margin:15px 5px 10px 5px;
+  padding:15px 15px 15px 15px;
+  text-align:center;
+  background-color:#cc99ff;
+}
+
+a {
+  color:white
+  text-align:center;
+  font-family:Palatino, "Times New Roman", serif;
+  font-size:20px
+}
+
+
+ul {
+  list-style-type:circle;
+  font-family:"Lucida Sans Unicode", "Lucia Grande", sans-serif;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+
+.column {
+  flex: 50%;
+  padding: 0 4px;
+}
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+}
+
+img {
+  border-style:solid;
+  border-width:3px;
+}
+  
+
+
+
